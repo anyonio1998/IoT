@@ -2,7 +2,7 @@
 
 **Antonio Garcia-Risco, Nacho López, Miguel Arroyo**
 
-El trabajo quehemos realizado se llama b-10, es un asistente que envia mensajes por correo electronico
+El trabajo que hemos realizado se llama b-10, es un asistente que envia mensajes por correo electronico
 
 
 Aqui se encuentra el codigo que hemos utilizado
